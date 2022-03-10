@@ -1,4 +1,18 @@
 # Hello!!
+My name is Yousef. I have tried alot programming fields but  I've settled in web devolopment.
+
+## What I can do 
+- Backend development using Django and python
+- Frontend development using HTML, CSS and JavaScript
+- Game development using python and pygame
+
+## My web development tech stack
+- Django
+- HTML
+- CSS
+- JavaScript
+
+
 
 
 
