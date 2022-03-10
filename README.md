@@ -1,6 +1,8 @@
 # Hello!!
 My name is Yousef. I have tried alot of programming fields but  I've settled in web devolopment.
 
+I am currently working with on **The Computerizer** website. 
+
 ## What I can do 
 - Backend development using Django and python
 - Frontend development using HTML, CSS and JavaScript
@@ -12,7 +14,6 @@ My name is Yousef. I have tried alot of programming fields but  I've settled in 
 - CSS
 - JavaScript
 
-I am currently working with on **The Computerizer** website. 
 
 ## Contact me
 
