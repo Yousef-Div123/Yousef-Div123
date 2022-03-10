@@ -12,7 +12,7 @@ My name is Yousef. I have tried alot of programming fields but  I've settled in 
 - CSS
 - JavaScript
 
-### I am currently working with on **The Computerizer** website. 
+I am currently working with on **The Computerizer** website. 
 
 
 
