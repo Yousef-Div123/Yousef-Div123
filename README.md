@@ -1,5 +1,5 @@
 # Hello!!
-My name is Yousef. I have tried alot programming fields but  I've settled in web devolopment.
+My name is Yousef. I have tried alot of programming fields but  I've settled in web devolopment.
 
 ## What I can do 
 - Backend development using Django and python
