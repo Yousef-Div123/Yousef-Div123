@@ -12,6 +12,7 @@ I am currently working on *Computerizer* website.
 - Django
 - HTML
 - CSS
+- BootStrap
 - JavaScript
 
 
