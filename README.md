@@ -1,7 +1,7 @@
 # Hello!!
 My name is Yousef. I have tried alot of programming fields but  I've settled in web devolopment.
 
-I am currently working on **The Computerizer** website. 
+I am currently working on *Computerizer** website. 
 
 ## What I can do 
 - Backend development using Django and python
