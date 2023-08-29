@@ -16,9 +16,6 @@ I am currently working on *Computerizer* website.
 - JavaScript
 
 
-## Contact me
-
-mryoyo133@gmail.com
 
 <!--
 **mryoyo133/mryoyo133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
