@@ -1,5 +1,5 @@
 # Hello!!
-My name is Yousef. I have tried alot of programming fields but  I've settled in web devolopment.
+Hello, everyone! I'm Yousef Abdulaziz, a software engineering student specializing in backend development. With four years of coding experience, I have dedicated my time to mastering the intricacies of building and optimizing the backbone of websites. Proficient in technologies like Django, I have actively sought out opportunities to apply my skills, collaborating with teams and solving complex problems along the way. 
 
 I am currently working on *Computerizer* website. 
 
